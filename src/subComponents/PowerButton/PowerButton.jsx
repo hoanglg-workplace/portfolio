@@ -1,6 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
-import { PowerBtn } from '../../components/AllSvgs'
+// import { PowerBtn } from '../../components/AllSvgs'
 import './PowerButton.css'
 import {LogoutOutlined} from '@ant-design/icons'
 

@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { Github } from "../../components/AllSvgs";
+// import { Github } from "../../components/AllSvgs";
 import "./Card.css";
 
 const Item = {
